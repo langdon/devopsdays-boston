@@ -1,0 +1,3 @@
+[submodule "devopsdays-webby"]
+	path = devopsdays-webby
+	url = git@github.com:whitel/devopsdays-webby.git
