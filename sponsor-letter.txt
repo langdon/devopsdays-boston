@@ -1,0 +1,30 @@
+Hi all, apologies on the delay on this information.
+
+Sponsors can access the space at 8:30am on both days with registration opening at 9am, but there is no access in advance. If you would like to ship materials, you can do send it to:
+
+DevOps Days Boston (8/18 & 8/19/2014)
+c/o Amziah Craig
+Microsoft
+1 Memorial drive
+Cambridge MA. 02142
+
+You can also expect the same address for OUTbound shipping labels.
+
+If you are a gold sponsor, you will have a 6' table against a wall with power. If you are a silver sponsor the same size table will be used, but we may put two together. Wifi is available to all sponsors and attendees, we will not have hard ethernet lines for sponsors. 
+
+We/You can store materials over night in the rooms and, apparently, a closet. We will have to figure out the use of the "closet" onsite.  
+
+The sponsor speaker schedule will be as follows, please let me know if you will not be able to make your time slot so we can adjust.
+Day 1, 10:10: Microsoft
+Day 1, 10:45: SumoLogic
+Day 1, 11:30: Ruxit
+Day 1, 12:00: AppNeta
+Day 1, 12:30: Stackato
+Day 1, 13:00: DataDog
+
+Day 2, 10:45: LogEntries
+Day 2, 11:30: XebiaLabs
+Day 2, 12:00: Red Hat
+Day 2, 12:30: Puppet Labs
+Day 2, 13:00: Chef/Opscode
+Day 2, 14:00: SmartBear
